@@ -18,7 +18,7 @@ CodeLeap Network is a full-featured social posting platform where developers can
 
 ## Live Demo
 
-🔗 **[codeleap-network.netlify.app](https://codeleap-network.netlify.app)**
+🔗 **[codeleap-app.netlify.app](https://codeleap-app.netlify.app)**
 
 ---
 
